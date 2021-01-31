@@ -1,0 +1,23 @@
+/* input {
+  font-size: 1.64rem !important;
+  color: rgb(231, 19, 185) !important;
+}
+input.valid {
+  color: rgb(231, 19, 185) !important;
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: pink;
+}
+main {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;
+}
